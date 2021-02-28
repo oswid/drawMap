@@ -11,6 +11,6 @@
 | ----------- | ----- |
 | **`mouse5`** | **2** |
 
-1: Forvard - [mouse4] - {C-z}
+1: **Forvard** - *[mouse4]* - *{C-z}*
 
-2: Backward - [mouse5] - {C-y}
+2: **Backward** - *[mouse5]* - *{C-y}*
