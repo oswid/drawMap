@@ -43,3 +43,5 @@
 
 
 
+###ToDo
+- [ ] figure out main hotkeys for obsidian and add them to the map
